@@ -1,3 +1,6 @@
+# Udah gk bisa
+
+<!--
 <div align="center">
 <img alt="GitHub" src="https://img.shields.io/badge/WHATSAPP%20BOT-25D32?style=for-the-badge&logoColor=darkgreen"/>
 <br><br>
@@ -127,3 +130,4 @@ TURN OFF
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
 * [Justpiple](https://github.com/justpiple/whatsapp-bot)
 * [MhankBarBar](https://github.com/mhankbarbar)
+-->
