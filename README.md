@@ -1,4 +1,5 @@
 # Udah gk bisa
+`Library nya diapus sm yg punya`
 
 <!--
 <div align="center">
@@ -16,20 +17,6 @@
 <a href="https://wa.me/message/IZ5ZIVGIQL2NJ1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  
 </div>
-
-# Feature Info
-```
-> Button Location
-> Husbu
-> Neko
-> Hentai
-> Self/Public
-> Asupan
-> Random Image
-> Total Hit
-> Auto Reg User
-> Etc.
-```
 
 # Heroku/replit Method
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akmall-236/wabot/)
@@ -92,7 +79,7 @@ after running it you need to scan the qr
 # For termux users
 ```sh
 INSTALL
-> pkg i nodejs && ffmpeg && git clone
+> pkg i nodejs && ffmpeg && git
 > git clone https://github.com/akmallxx/wabot
 > cd wabot
 > npm i
@@ -106,16 +93,17 @@ TURN OFF
 > ctrl + c
 ```
 
+
+* Change <b>[config.json](https://github.com/akmallxx/wabot/blob/master/config.json)</b>
+
 # How To Get Apikey
-* Change <b>[config.json](https://github.com/Dvnz99/wabot/blob/master/config.json)</b>
+* Register in <b>[zeks.me](https://zeks.me)</b> to get apiKey then enter to zeksKey in [config.json](https://github.com/akmallxx/wabot/blob/master/config.json)
 
-* Register in <b>[zeks.me](https://zeks.me)</b> to get apiKey then enter to zeksKey in [config.json](https://github.com/Dvnz99/wabot/blob/master/config.json)
+* Register in <b>[api.xteam.xyz](https://api.xteam.xyz)</b> to get apiKey then enter to xkey in [config.json](https://github.com/akmallxx/wabot/blob/master/config.json)
 
-* Register in <b>[api.xteam.xyz](https://api.xteam.xyz)</b> to get apiKey then enter to xkey in [config.json](https://github.com/Dvnz99/wabot/blob/master/config.json)
+* Register in <b>[api.lolhuman.xyz](https://api.lolhuman.xyz)</b> to get apiKey then enter to lolkey in [config.json](https://github.com/akmallxx/wabot/blob/master/config.json)
 
-* Register in <b>[api.lolhuman.xyz](https://api.lolhuman.xyz)</b> to get apiKey then enter to lolkey in [config.json](https://github.com/Dvnz99/wabot/blob/master/config.json)
-
-* Register in <b>[dapuhy-api](https://dapuhy-api.herokuapp.com)</b> to get apiKey then enter to uhykey in [config.json](https://github.com/Dvnz99/wabot/blob/master/config.json)
+* Register in <b>[dapuhy-api](https://dapuhy-api.herokuapp.com)</b> to get apiKey then enter to uhykey in [config.json](https://github.com/akmallxx/wabot/blob/master/config.json)
 
 * Start ✅
 ## Session name and options is optional
@@ -123,11 +111,4 @@ TURN OFF
 
 - [TELEGRAM](https://t.me/justpiple)
 - [WHATSAPP](https://wa.me/628885960825)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
-
-
-## 🙏 Special Thanks to
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/@adiwajshing/Baileys%20-%23121011.svg?style=flat-square&logo=npm&color=white"/></a>
-* [Justpiple](https://github.com/justpiple/whatsapp-bot)
-* [MhankBarBar](https://github.com/mhankbarbar)
 -->
